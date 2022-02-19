@@ -75,7 +75,7 @@ FILE "恋する少女(ドール)と想いのキセキ ～Poupee de souhaits～ �
     INDEX 00 42:26:32 
     INDEX 01 42:28:32 
   TRACK 15 AUDIO 
-    TITLE "奇跡の內側にある想いの丈" 
+    TITLE "奇跡の内側にある想いの丈" 
     PERFORMER "Sugar pot" 
     INDEX 00 45:12:63 
     INDEX 01 45:14:63 
